@@ -1,4 +1,4 @@
-## GitHub Full Backup
+# GitHub Full Backup
 A library to backup your GitHubs.
 # Install
 ```
